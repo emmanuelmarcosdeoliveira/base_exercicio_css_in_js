@@ -153,7 +153,7 @@ http://localhost:3000
 <!-- Video de Demostraçào -->
  <!-- <h3 align="center">📽️project demonstration video</h3> -->
 
- <div align="center">
+ <!-- <div align="center">
 Acesse a versão on-line Projeto clicando no Link Abaixo
 
 <br>
@@ -162,7 +162,7 @@ Acesse a versão on-line Projeto clicando no Link Abaixo
 <a href="https://to-do-vue-xi-pink.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</div>
+</div> -->
 <br>
 
 ## References
