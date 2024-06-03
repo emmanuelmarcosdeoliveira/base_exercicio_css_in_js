@@ -24,7 +24,7 @@ _Esse Projeto faz parte do curso de FullStack Python da [EBAC](https://ebaconlin
 
 - O Princiapal desáfio foi:
 
-- [x] Entender um projeto, que foi desenvolvido por outra pesssoa para refatorar a sua estilizaçào, praticando o uso do **styled-component**
+- [x] Entender um projeto, que foi desenvolvido por outra pesssoa, para refatorar a sua estilizaçào, praticando o uso do **styled-component**
 <br>
 
 > [!Tip]
@@ -84,9 +84,16 @@ Caso você não saiba como fazer, estou deixando um link para a documentação o
 <br>
 <sub>Command Line</sub>
 
-```bash
+```bash copy
 git clone https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac
 ```
+
+{% api %}
+
+These instructions are pertinent to API users.
+
+{% endapi %}
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
@@ -96,26 +103,18 @@ Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as
 **1. Instalando as dependências**<br>
 <sub>Command Line</sub>
 
-~~~npm
+<details>
+
+<summary>Gerenciador de pacotes usado</summary>
+
+**npm**
+
+</details>
+
+
+```bash copy
 npm install
-~~~
-
-~~~pnpm
-pnpm install
-~~~
-
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
+```
 
 <!-- Bagde das Tecnologias-->
 
@@ -132,22 +131,18 @@ Esta é uma linha de código em HTML.
 **2. Inicie o servidor de Desenvolvimento com o seguinte comando dentro do Terminal**<br>
 <sub>Command Line</sub>
 
-~~~bash
+```bash copy
 npm run start
-~~~
+```
 
-~~~pnpm
-pnpm dev
-~~~
-
-<br>
+</br>
 
 **3. Será aberto uma janela no seu Navegador com o projeto sendo executado.
-Caso isso não ocorra digite na barra de endereço do navegador**
+Caso isso não ocorra digite o endereço abaixo na barra do navegador**
 
-```shell
+
+```shell copy
 http://localhost:3000
-
 ```
 
  <!-- Imagem de Demostração -->
@@ -164,7 +159,10 @@ http://localhost:3000
 
  <div align="center">
 Acesse a versão on-line Projeto clicando no Link Abaixo
+
 <br>
+<br>
+
 <a href="https://to-do-vue-xi-pink.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
@@ -179,7 +177,7 @@ Acesse a versão on-line Projeto clicando no Link Abaixo
 
 <img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png">
 
-Designed by Origamid and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
+Designed by EBAC and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 &copy; Todos os Direitos Reservados
 
 ## Contact
