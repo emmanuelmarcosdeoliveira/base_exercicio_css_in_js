@@ -14,7 +14,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/emmanuelmarcosdeoliveira/ebac-jobs?style=plastic&labelColor=%23000)
 ![GitHub forks](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/js-slide-origamid?style=plastic&labelColor=%23000)
 
-_Esse Projeto faz parte do curso de FullStack Python do [EBAC](https://www.ebac.com) ele simula um site de busca de Emprego, Ele foi desenvolvido com **React** com **TypeScript** e sua estillizaçào com **css-modueles**_
+_Esse Projeto faz parte do curso de FullStack Python da [EBAC](https://ebaconline.com.br/) ele simula um site de busca de Emprego, Ele foi desenvolvido com **React** e **TypeScript**, sua estillizaçào foi construida com **css-modueles**_
 
 `Task`
 
@@ -22,12 +22,13 @@ _Esse Projeto faz parte do curso de FullStack Python do [EBAC](https://www.ebac.
 
 `Charlenge`
 
-- O Princiapl desáfio foi:
+- O Princiapal desáfio foi:
 
-- [x] Entender o prjeto que foi feito por outra pesssoa para poder refazer a sua estilizaçào, praticando o uso do **styled-componet**
+- [x] Entender um projeto, que foi desenvolvido por outra pesssoa para refatorar a sua estilizaçào, praticando o uso do **styled-component**
+<br>
 
 > [!Tip]
-> Caso queira ver como ficou siga os passos abaixo.
+> Caso queira ver como ficou o prjeto, siga o passo a passo descrito abaixo.
 
 <!-- Menu -->
 
@@ -59,7 +60,7 @@ Requisitos necessários para rodar o projeto:<br>
 `Node.js` `VSCode` `Git`
 
 - Run Time [Node.js](https://nodejs.org/en/) com a versão _16 ou superior_.<br>
-- Um editor de códigos onde eu recomendo o [VCode](https://code.visualstudio.com/)<br>
+- Um editor de códigos, eu recomendo o [VCode](https://code.visualstudio.com/)<br>
 - E o [git](https://git-scm.com/downloads) uma aplicaçào de versionamento de código.
 
 ### technologies and tools
@@ -73,13 +74,13 @@ Requisitos necessários para rodar o projeto:<br>
 
 ## Instalation
 
-Para que você consiga rodar esse projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer isso estou deixando um **link** para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.<br> Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
+Para rodar esse projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer. Estou deixando um **link** para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.<br> Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
 
 Depois de ter feito o **fork** vamos fazer o [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) desse Repositório atráves do **VSCode**. </br>
-Caso você não saiba como fazer isso estou deixando um link para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.
+Caso você não saiba como fazer, estou deixando um link para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.
 <br>
 <sub>Command Line</sub>
 
@@ -95,13 +96,26 @@ Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as
 **1. Instalando as dependências**<br>
 <sub>Command Line</sub>
 
-```npm
+~~~npm
 npm install
-```
+~~~
 
-```pnpm
+~~~pnpm
 pnpm install
-```
+~~~
+
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
 
 <!-- Bagde das Tecnologias-->
 
@@ -118,21 +132,22 @@ pnpm install
 **2. Inicie o servidor de Desenvolvimento com o seguinte comando dentro do Terminal**<br>
 <sub>Command Line</sub>
 
-```npm
+~~~bash
 npm run start
-```
+~~~
 
-```pnpm
+~~~pnpm
 pnpm dev
-```
+~~~
 
 <br>
 
 **3. Será aberto uma janela no seu Navegador com o projeto sendo executado.
 Caso isso não ocorra digite na barra de endereço do navegador**
 
-```
+```shell
 http://localhost:3000
+
 ```
 
  <!-- Imagem de Demostração -->
@@ -158,13 +173,13 @@ Acesse a versão on-line Projeto clicando no Link Abaixo
 
 ## References
 
-**Acesse:** [EBAC](https://ebac.com/)
+**Acesse:** [EBAC](https://ebaconline.com.br/)
 
 ## Contributors or owners
 
 <img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png">
 
-Designed by Origamid and developed by [Emmanuel Oliveira]()<br>
+Designed by Origamid and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 &copy; Todos os Direitos Reservados
 
 ## Contact
