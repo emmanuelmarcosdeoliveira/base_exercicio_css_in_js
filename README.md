@@ -95,9 +95,8 @@ git clone https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac
 Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as dependências do Projeto para o nosso computador para que ele consiga ser Executado:
 
 **1. Instalando as dependências**<br>
-<sub>Command Line</sub>
 
-<details>
+<details open>
 
 <summary>Gerenciador de pacotes usado</summary>
 
@@ -105,8 +104,9 @@ Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as
 
 </details>
 
-<br>
 
+<sub>Command Line</sub>
+<br>
 
 ```bash copy
 npm install
@@ -171,8 +171,10 @@ Acesse a versão on-line Projeto clicando no Link Abaixo
 
 ## Contributors or owners
 
-<img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png"><br>
-@emmanuelmarcosdeoliveira
+|owners|
+|:-----:|
+|<img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png">|
+|Emmanuel Oliveira|
 
 Designed by EBAC and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 <br>
