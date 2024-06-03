@@ -195,3 +195,19 @@ Released in 2024 This project is under the **MIT license**<br>
 <br>
 
 [`voltar ao topo`](#-portfólio-github)
+
+
+
+<table align="left">
+  <tr>
+    <td align="center">
+     <img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png">
+        <sub>
+          <b>
+            <pre>Emmanuel Oliveira</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+    </table>
