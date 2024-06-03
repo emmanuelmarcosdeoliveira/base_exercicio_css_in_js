@@ -58,10 +58,10 @@ Requisitos necessários para rodar o projeto:<br>
 ### Prerequisites
 
 `Node.js` `VSCode` `Git`
-
-- Run Time [Node.js](https://nodejs.org/en/) com a versão _16 ou superior_.<br>
-- Um editor de códigos, eu recomendo o [VCode](https://code.visualstudio.com/)<br>
-- E o [git](https://git-scm.com/downloads) uma aplicaçào de versionamento de código.
+> [!IMPORTANT]
+>  Run Time [Node.js](https://nodejs.org/en/) com a versão _16 ou superior_.<br>
+>  Um editor de códigos, eu recomendo o [VCode](https://code.visualstudio.com/)<br>
+>  E o [git](https://git-scm.com/downloads) uma aplicaçào de versionamento de código.
 
 ### technologies and tools
 
@@ -88,12 +88,6 @@ Caso você não saiba como fazer, estou deixando um link para a documentação o
 git clone https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac
 ```
 
-{% api %}
-
-These instructions are pertinent to API users.
-
-{% endapi %}
-
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
@@ -110,6 +104,8 @@ Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as
 **npm**
 
 </details>
+
+<br>
 
 
 ```bash copy
@@ -175,9 +171,11 @@ Acesse a versão on-line Projeto clicando no Link Abaixo
 
 ## Contributors or owners
 
-<img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png">
+<img height="96px" src="https://www.github.com/emmanuelmarcosdeoliveira.png"><br>
+@emmanuelmarcosdeoliveira
 
-Designed by EBAC and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
+Designed by EBAC and developed by [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+<br>
 &copy; Todos os Direitos Reservados
 
 ## Contact
